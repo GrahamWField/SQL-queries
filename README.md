@@ -26,4 +26,4 @@ The data set includes information on: Customers, Staff, Store locations, Movies,
 
 ## Visualisations
 
-The visualisations for the project can be found in [Tableua Public](https://public.tableau.com/app/profile/graham.field/viz/Task3_10_17074208029170/Story1?publish=yes)
+The visualisations for the project can be found in [Tableua Public](https://public.tableau.com/app/profile/graham.field/viz/Task3_10Top10countries/Story1?publish=yes)
